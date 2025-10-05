@@ -31,7 +31,7 @@ print(f"Квітка: {tulip.name}, колір: {tulip.color}, пелюсток:
 
 gardener = Gardener("Олег", 5, "Троянда")
 
-print("\nЗавдання 2: Садівник (атрибути і методи)")
+print("\nЗавдання 2: Садівник. (атрибути і методи)")
 gardener.plant(rose)
 gardener.plant(tulip)
 gardener.show_flowers()
